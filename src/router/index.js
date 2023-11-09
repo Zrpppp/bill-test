@@ -22,7 +22,7 @@ const router = createBrowserRouter([
     {
         path: '/new',
         element: <New/>,
-    },
+    }
 ])
 
 export default router;
