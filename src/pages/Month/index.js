@@ -5,6 +5,7 @@ import classNames from "classnames";
 import dayjs from "dayjs";
 import {useSelector} from "react-redux";
 import _ from 'lodash'
+import DayBill from "./components/DayBill";
 
 const Month = () => {
     //按月做数据分组
@@ -77,6 +78,7 @@ const Month = () => {
                     />
                 </div>
                 {/* 单日列表统计 */}
+                <DayBill/>
             </div>
         </div>
     )
