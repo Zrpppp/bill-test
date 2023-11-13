@@ -129,9 +129,44 @@
     {
       "type": "pay",
       "money": -500,
-      "date": "2023-11-12T18:00:00.000Z",
-      "useFor": "salary",
+      "date": "2023-11-13T18:00:00.000Z",
+      "useFor": "food",
       "id": 26
+    },
+    {
+      "type": "income",
+      "money": 100,
+      "date": "2023-11-13T08:18:09.017Z",
+      "useFor": "bonus",
+      "id": 27
+    },
+    {
+      "type": "income",
+      "money": 200,
+      "date": "2023-10-10T16:00:00.000Z",
+      "useFor": "bonus",
+      "id": 28
+    },
+    {
+      "type": "pay",
+      "money": 0,
+      "date": "2023-11-13T08:39:32.514Z",
+      "useFor": "",
+      "id": 29
+    },
+    {
+      "type": "income",
+      "money": 100,
+      "date": "2023-11-13T08:41:43.417Z",
+      "useFor": "cashgift",
+      "id": 30
+    },
+    {
+      "type": "pay",
+      "money": -21,
+      "date": "2023-11-05T16:00:00.000Z",
+      "useFor": "dessert",
+      "id": 31
     }
   ]
 }
